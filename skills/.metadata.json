@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entries": {
+    "frontend-design": {
+      "source": "github.com/anthropics/skills/skills/frontend-design",
+      "type": "github-subdir",
+      "installed_at": "2026-11-06T10:08:07.707555+01:00",
+      "repo_url": "https://github.com/anthropics/skills.git",
+      "subdir": "skills/frontend-design",
+      "version": "ca45fc4",
+      "tree_hash": "d79e2a5bb4df4a386c2adcdd9ab8709bba28c3f6",
+      "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+      "file_hashes": {
+        "LICENSE.txt": "sha256:0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+        "SKILL.md": "sha256:d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3"
+      }
+    }
+  }
+}
