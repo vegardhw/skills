@@ -28,6 +28,19 @@
         "SKILL.md": "sha256:d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3"
       }
     },
+    "no-mistakes": {
+      "source": "github.com/kunchenguid/no-mistakes/skills/no-mistakes",
+      "type": "github-subdir",
+      "installed_at": "2026-11-06T11:04:40.453546+01:00",
+      "repo_url": "https://github.com/kunchenguid/no-mistakes.git",
+      "subdir": "skills/no-mistakes",
+      "version": "c86ee79",
+      "tree_hash": "74de3a058e113582170b2facaa2beb2f5dda974d",
+      "commit": "c86ee79a2be38400cab93de69d6ec343aafab891",
+      "file_hashes": {
+        "SKILL.md": "sha256:dc03ce3e0b622dcae7d4ed10e42591a34aac063ab0911495f0ce05cb46ec4e36"
+      }
+    },
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
