@@ -1,6 +1,20 @@
 {
   "version": 1,
   "entries": {
+    "code-review": {
+      "source": "github.com/mattpocock/skills/skills/engineering/code-review",
+      "type": "github-subdir",
+      "installed_at": "2026-11-10T00:03:44.06181+01:00",
+      "repo_url": "https://github.com/mattpocock/skills.git",
+      "subdir": "skills/engineering/code-review",
+      "version": "4ae2317",
+      "tree_hash": "a8ef561571acbb611de8ff19ba6da75b197c63a8",
+      "commit": "4ae2317ddb22b046e26455e4f9c9b3aaaf62212d",
+      "file_hashes": {
+        "SKILL.md": "sha256:9c921a8d88138a41401d8897ca1bb852088ab1b7b605cdd04edc13e3e8aab6dd",
+        "agents/openai.yaml": "sha256:8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352"
+      }
+    },
     "conventional-commits": {
       "source": "github.com/adobe/spectrum-web-components/.ai/skills/conventional-commits",
       "type": "github-subdir",
